@@ -1,5 +1,5 @@
-import streamlit as st
-import sqlite3
-import pandas as pd
-import json
-import altair as alt
+streamlit as st
+sqlite3
+pandas as pd
+json
+altair as alt
