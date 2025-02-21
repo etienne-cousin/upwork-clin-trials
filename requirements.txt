@@ -1,5 +1,5 @@
-streamlit as st
+streamlit
 sqlite3
-pandas as pd
+pandas
 json
-altair as alt
+altair
